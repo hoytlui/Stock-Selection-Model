@@ -2,7 +2,7 @@
 
 *Investment firms strive to find the holy grail to capture alpha in the markets. In this project, we will create simple strategies using technical analysis on the public stock markets, and we will backtest the efficacy of these methods.*
 
-## 1. Data
+## 1. Data Collection
 
 We will use the stocks in ARK Invest's portfolios to perform technical analysis as a starting point. But any stocks can be added to or removed from the watchlist.
 
